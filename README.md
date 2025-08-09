@@ -9,15 +9,15 @@
 </p>
 
 <h1 align="center">🚀 Hey, I'm Manimaran Ganeshkumar</h1>
-<h3 align="center">💻 Full Stack Web Developer | ⚡ EEE Engineer | 📍 India</h3>
+<h3 align="center">💻 Full Stack Web Developer | 📍 India</h3>
 
 ---
 
 ### 🪄 About Me
 - 🎯 **Goal:** To create impactful & visually appealing web applications.  
 - 🌱 Currently learning **Next.js** & **Three.js** for 3D web apps.  
-- 🔭 Worked on **Landing Pages, FD Calculator, Music Player, Image Gallery** & more.  
-- 📫 How to reach me: **your-email@example.com**  
+- 🔭 Worked on **Wikipedia Clone, FD Calculator, AI chatbot, X Clone** & more.  
+- 📫 How to reach me: manimaranganeshkumar@gmail.com  
 - ⚡ Fun fact: *I make my code look like art.*
 
 ---
@@ -51,8 +51,8 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [💼 Portfolio](https://github.com/your-username/portfolio) | Personal portfolio showcasing my skills | HTML, CSS, JS |
-| [🎵 Music Player](https://github.com/your-username/music-player) | Web music player with playlist feature | HTML, CSS, JS |
-| [📸 Image Gallery](https://github.com/your-username/image-gallery) | Responsive gallery with filter | HTML, CSS, JS |
+| [🎵 X Clone](https://github.com/your-username/x_clone) | Web music player with playlist feature | HTML, CSS, JS |
+| [📸 AI_Chatbot](https://github.com/your-username/ai_chatbot) | Responsive gallery with filter | HTML, CSS, JS |
 | [📊 FD Calculator](https://github.com/your-username/fd-calculator) | Calculates Fixed Deposit interest | HTML, CSS, JS |
 
 ---
